@@ -1,0 +1,7 @@
+flask
+flask-login
+
+dash
+dash_bootstrap_components
+dash-mantine-components<0.14
+dash_iconify
